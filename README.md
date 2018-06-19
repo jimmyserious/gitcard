@@ -1,3 +1,12 @@
+# gitcard
+Day 1: Simple React App to show my github social card
+
+This is part of a #100 days of coding challenge in which I will be pushing a react or react native project through to my github repo.
+
+Why?? WHy would you be doing this?? Whats the point?
+If you are interested please go to:
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
