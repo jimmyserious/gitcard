@@ -42,8 +42,8 @@ class App extends Component {
         </div>
         <div className="gitcard-body">
 	        <ul>
-		        <li><span>repos</span>{this.state.repos}</li>
-		        <li><span>followers</span>{this.state.followers}</li>
+		        <li><span>repos</span> {this.state.repos}</li>
+		        <li><span>followers</span> {this.state.followers}</li>
 		        <li><span>following</span> {this.state.following}</li>
 	        </ul>
         </div>
